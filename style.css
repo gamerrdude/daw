@@ -1,0 +1,17 @@
+body{
+    background-color: orange;
+}
+
+#show_sketch{
+    float: right;
+}
+canvas
+{
+    border:5px solid black;
+       border-radius: 39px;
+    background-color: white; 
+    animation-name: example;
+    animation-duration: 4s;
+     margin-top: 50px;
+    animation-iteration-count: infinite;
+}
